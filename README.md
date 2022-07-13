@@ -1,6 +1,6 @@
 # ADBMS-UPES
 
-## EXP 1 ##
+## Experiment 1 ##
 ###### Title :
 To understand DDL and DML commands
 ###### Objective : 
