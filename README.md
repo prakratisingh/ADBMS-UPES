@@ -12,4 +12,4 @@ populating the tables. Also familiarize with different ways of manipulation in d
 To understand and apply the concept of Constraints.
 ###### Objective : 
 To understand the concept of data constraints that is enforced on data being stored in the 
-table. Focus on Primary Key and the Foreign Key.
+table. Focus is given on Primary Key and the Foreign Key.
