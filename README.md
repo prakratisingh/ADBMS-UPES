@@ -13,3 +13,9 @@ To understand and apply the concept of Constraints.
 ###### Objective : 
 To understand the concept of data constraints that is enforced on data being stored in the 
 table. Focus on Primary Key and the Foreign Key.
+
+## Experiment 3 ##
+###### Title :
+To understand and use SQL Sub-Query.
+###### Objective : 
+To understand the use of sql subquery.
