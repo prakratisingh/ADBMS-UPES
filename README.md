@@ -22,6 +22,6 @@ To understand the use of sql subquery.
 
 ## Experiment 4 ##
 ###### Title :
-Use of Inbuilt functions and relational algebra operation. 
+Use of Inbuilt functions and relational algebra operations. 
 ###### Objective : 
 To understand the use of inbuilt function and relational algebra with sql query.
