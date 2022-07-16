@@ -7,7 +7,7 @@ To understand DDL and DML commands
 To understand the concept of designing issue related to the database with creating, 
 populating the tables. Also familiarize with different ways of manipulation in database.
  
-## Experiment 2 ##
+## Experiment 2 & 2.1 ##
 ###### Title :
 To understand and apply the concept of Constraints.
 ###### Objective : 
