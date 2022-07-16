@@ -19,3 +19,9 @@ table. Focus on Primary Key and the Foreign Key.
 To understand and use SQL Sub-Query.
 ###### Objective : 
 To understand the use of sql subquery.
+
+## Experiment 4 ##
+###### Title :
+Use of Inbuilt functions and relational algebra operation. 
+###### Objective : 
+To understand the use of inbuilt function and relational algebra with sql query.
