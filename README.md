@@ -28,7 +28,7 @@ To understand the use of inbuilt function and relational algebra with sql query.
 
 ## Experiment 5 ##
 ###### Title :
-Use of different SQL clauses and join. 
+Use of different SQL clauses and JOIN. 
 ###### Objective : 
 To understand the use of group by and having clause and execute the SQL commands 
 using JOIN.
