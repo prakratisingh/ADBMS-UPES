@@ -25,3 +25,10 @@ To understand the use of sql subquery.
 Use of Inbuilt functions and relational algebra operations. 
 ###### Objective : 
 To understand the use of inbuilt function and relational algebra with sql query.
+
+## Experiment 5 ##
+###### Title :
+Use of different SQL clauses and join. 
+###### Objective : 
+To understand the use of group by and having clause and execute the SQL commands 
+using JOIN.
