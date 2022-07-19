@@ -33,7 +33,7 @@ Use of different SQL clauses and JOIN.
 To understand the use of group by and having clause and execute the SQL commands 
 using JOIN.
 
-## Experiment 5 ##
+## Experiment 6 ##
 ###### Title :
 To understand the concepts of Views. 
 ###### Objective : 
