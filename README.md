@@ -38,3 +38,9 @@ using JOIN.
 To understand the concepts of Views. 
 ###### Objective : 
 Students will be able to implement the concept of views.
+
+## Experiment 7 ##
+###### Title :
+To understand the concepts of Index.
+###### Objective : 
+Students will be able to implement the concept of index.
