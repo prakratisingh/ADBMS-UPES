@@ -47,6 +47,6 @@ Students will be able to implement the concept of index.
 
 ## Experiment 8 ##
 ###### Title :
-To understand the concepts of Index.
+To understand the concepts of Sequence.
 ###### Objective : 
 Students will be able to implement the concept of sequence.
