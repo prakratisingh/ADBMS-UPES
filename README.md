@@ -44,7 +44,6 @@ Students will be able to implement the concept of views.
 To understand the concepts of Index.
 ###### Objective : 
 Students will be able to implement the concept of index.
-1. Execute the following index related queries:
 1) Create an index of name employee_idx on EMPLOYEES with column Last_Name, 
 Department_id 
 2) Find the ROWID for the above table and create a unique index on employee_id column of 
