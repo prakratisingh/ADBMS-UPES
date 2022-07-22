@@ -44,9 +44,27 @@ Students will be able to implement the concept of views.
 To understand the concepts of Index.
 ###### Objective : 
 Students will be able to implement the concept of index.
+1. Execute the following index related queries:
+1) Create an index of name employee_idx on EMPLOYEES with column Last_Name, 
+Department_id 
+2) Find the ROWID for the above table and create a unique index on employee_id column of 
+the EMPLOYEES.
+3) Create a reverse index on employee_id column of the EMPLOYEES.
+4) Create a unique and composite index on employee_id and check whether there is duplicity 
+of tuples or not.
+5) Create Function-based indexes defined on the SQL functions UPPER(column_name) or 
+LOWER(column_name) to facilitate case-insensitive searches(on column Last_Name).
+6) Drop the function based index on column Last_Name.
 
 ## Experiment 8 ##
 ###### Title :
 To understand the concepts of Sequence.
 ###### Objective : 
 Students will be able to implement the concept of sequence.
+1) Create a sequence by name EMPID_SEQ starting with value 100 with an interval of 1.
+2) Write a SQL command for finding the current and the next status of EMPID_SEQ.
+3) Change the Cache value of the sequence EMPID_SEQ to 20 and maxvalue to 1000.
+4) Insert values in employees table using sequences for employee_id column.
+5) Drop sequence EMPID_SEQ. 
+6) Create a sequence called REVERSE to generate numbers in the descending order from 10000 
+to 1000 with a decrement of 5.
