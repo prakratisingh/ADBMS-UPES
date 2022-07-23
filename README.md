@@ -43,6 +43,7 @@ Students will be able to implement the concept of views.
 ###### Title :
 To understand the concepts of Index.
 ###### Objective : 
+Students will be able to implement the concept of index.
 Tasks covered in this experiment:
 1) Create an index of name employee_idx on EMPLOYEES with column Last_Name, 
 Department_id 
@@ -59,7 +60,8 @@ LOWER(column_name) to facilitate case-insensitive searches(on column Last_Name).
 ###### Title :
 To understand the concepts of Sequence.
 ###### Objective : 
-Tasks covered in this experiment:
+Students will be able to implement the concept of sequence.
+###### Tasks covered in this experiment:
 1) Create a sequence by name EMPID_SEQ starting with value 100 with an interval of 1.
 2) Write a SQL command for finding the current and the next status of EMPID_SEQ.
 3) Change the Cache value of the sequence EMPID_SEQ to 20 and maxvalue to 1000.
@@ -67,3 +69,16 @@ Tasks covered in this experiment:
 5) Drop sequence EMPID_SEQ. 
 6) Create a sequence called REVERSE to generate numbers in the descending order from 10000 
 to 1000 with a decrement of 5.
+
+## Experiment 9 ##
+###### Title :
+To understand the concepts of PL/SQL programming.
+###### Objective : 
+Students will be able to implement the basic concepts of Pl/SQL.
+###### Tasks covered in this experiment:
+1) Write a PL/SQL code to accept the value of A, B & C display which is greater.
+2) Using PL/SQL Statements create a simple loop that display message “Welcome to PL/SQL 
+Programming” 20 times.
+3) Write a PL/SQL code block to find the factorial of a number.
+4) Write a PL/SQL program to generate Fibonacci series.
+5) Write a PL/SQL code to fund the sum of first N numbers.
