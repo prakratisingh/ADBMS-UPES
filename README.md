@@ -59,7 +59,7 @@ LOWER(column_name) to facilitate case-insensitive searches(on column Last_Name).
 ###### Title :
 To understand the concepts of Sequence.
 ###### Objective : 
-Students will be able to implement the concept of sequence.
+Tasks covered in this experiment:
 1) Create a sequence by name EMPID_SEQ starting with value 100 with an interval of 1.
 2) Write a SQL command for finding the current and the next status of EMPID_SEQ.
 3) Change the Cache value of the sequence EMPID_SEQ to 20 and maxvalue to 1000.
