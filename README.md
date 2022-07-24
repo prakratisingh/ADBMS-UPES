@@ -82,3 +82,8 @@ Programming” 20 times.
 3) Write a PL/SQL code block to find the factorial of a number.
 4) Write a PL/SQL program to generate Fibonacci series.
 5) Write a PL/SQL code to fund the sum of first N numbers.
+
+## LabQuestions_ADBMS ##
+This contains the course plan of ADBMS lab of UPES. All the questions and tasks that are to be performed in each experiment are mentioned in details. 
+
+-----------------------------------------------------------------**************-----------------------------------------------------------------------------
