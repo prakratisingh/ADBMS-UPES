@@ -68,7 +68,7 @@ Students will be able to implement the concept of sequence.
 4) Insert values in employees table using sequences for employee_id column.
 5) Drop sequence EMPID_SEQ. 
 6) Create a sequence called REVERSE to generate numbers in the descending order from 10000 
-to 1000 with a decrement of 5
+to 1000 with a decrement of 5.
 
 ## Experiment 9 ##
 ###### Title :
