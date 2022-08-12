@@ -67,7 +67,7 @@ Students will be able to implement the concept of sequence.
 3) Change the Cache value of the sequence EMPID_SEQ to 20 and maxvalue to 1000.
 4) Insert values in employees table using sequences for employee_id column.
 5) Drop sequence EMPID_SEQ. 
-6) Create a sequence called reverse to generate numbers in the descending order from 10000 
+6) Create a sequence called REVERSE to generate numbers in the descending order from 10000 
 to 1000 with a decrement of 5.
 
 ## Experiment 9 ##
