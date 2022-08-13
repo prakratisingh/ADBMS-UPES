@@ -56,7 +56,7 @@ of tuples or not.
 LOWER(column_name) to facilitate case-insensitive searches(on column Last_Name).
 6) Drop the function based index on column Last_Name.
 
-## Experiment 8 ##
+## Experiment 8 #
 ###### Title :
 To understand the concepts of Sequence.
 ###### Objective : 
