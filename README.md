@@ -58,7 +58,7 @@ LOWER(column_name) to facilitate case-insensitive searches(on column Last_Name).
 
 ## Experiment 8 ##
 ###### Title :
-To understand the concepts of Sequence.
+To understand the concepts of Sequence
 ###### Objective : 
 Students will be able to implement the concept of sequence.
 ###### Tasks covered in this experiment:
