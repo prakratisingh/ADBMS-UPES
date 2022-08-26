@@ -17,7 +17,7 @@ INSERT INTO product_master(productno, description, profitpercent, unitmeasure, q
 SELECT  *
 FROM product_master; 
 
-/*creating TABLE salesman_master*/
+/*creating the TABLE salesman_master*/
 CREATE TABLE salesman_master(salesmanno varchar(6), salesmanname varchar(20), address1 varchar(30), address2 varchar(30), city varchar(15), pincode integer, state varchar(20), salamt integer, tgttoget decimal(5, 3), remarks varchar(60)); 
 /*inserting values IN salesman_master*/
 INSERT INTO salesman_master (salesmanno, salesmanname, address1, address2, city, pincode, state ) values('S00001', ' Aman', ' A/14', ' Worli ', 'Mumbai', 400002, ' Maharashtra'), ('S00002', ' Omkar', '65', ' Nariman ', 'Mumbai', 400001 , 'Maharashtra'), ('S00003', ' Raj', ' P-7', ' Bandra', ' Mumbai' , 400032, ' Maharashtra'), ('S00004', ' Ashish' , 'A/5', ' Juhu', ' Mumbai' , 400044, 'Maharashtra');
