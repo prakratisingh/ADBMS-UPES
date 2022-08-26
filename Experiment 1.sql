@@ -1,4 +1,4 @@
-/*creating TABLE client_master*/
+/*creating the TABLE client_master*/
 CREATE TABLE client_master(clientno varchar(6), name varchar(30), city varchar(15), pincode integer, state varchar(15), baldue decimal(10, 2)); 
 /*inserting values IN client_master*/
 INSERT INTO client_master(clientno, Name, city, Pincode, state, BalDue) values ('C00001', 'Ivan bayross', 'Mumbai', 400054, 'Maharashtra', 15000);
