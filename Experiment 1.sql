@@ -8,7 +8,7 @@ INSERT INTO client_master(clientno, Name, city, Pincode, state, BalDue) values (
 SELECT  *
 FROM client_master;
 
-/*creating the TABLE productmaster*/
+/*creating the TABLE product_master*/
 CREATE TABLE product_master (productno varchar(6), description varchar(15), profitpercent decimal(4, 2), unitmeasure varchar(10), qtyonhand integer, reorderlvl integer, sellprice decimal(8, 2), costprice decimal(8, 2)); 
 /*inserting values IN product_master*/
 INSERT INTO product_master(productno, description, profitpercent, unitmeasure, qtyonhand, reorderlvl, sellprice, costprice) values('P00001', 'T-Shirt', 5 , 'Piece' , 200 , 50 , 350 , 250), ('P0345', 'Shirts', 6 , 'Piece' , 150 , 50 , 500, 350), ('P06734' , 'Cotton jeans', 5, ' Piece', 100 , 20, 600, 450), ('P07865', 'Jeans', 5, ' Piece', 100, 20, 750, 500), ('P07868', 'Trousers', 2, ' Piece', 150 , 50, 850, 550);
