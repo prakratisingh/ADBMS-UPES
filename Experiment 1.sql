@@ -25,7 +25,7 @@ INSERT INTO salesman_master (salesmanno, salesmanname, address1, address2, city,
 SELECT  *
 FROM salesman_master; 
 
-/*Finding names of all clients*/
+/*Finding names of all the clients*/
 SELECT  Name
 FROM client_master;
 /*Entire content FROM client master table*/
